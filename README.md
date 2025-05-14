@@ -2,20 +2,47 @@
 
 **Author:** Jaden Pregun  
 **License:** Creative Commons Attribution 4.0 International (CC BY 4.0)  
-**Status:** Public release for academic, institutional, and scientific community review
+**Published on:** OSF & GitHub  
+**Status:** Public release for global scientific review and validation
 
-## Overview
-This repository contains the complete public release of a unified, simulation-based scientific theory framework. The work spans 17+ major domains, including physics, biology, AI, medicine, time, consciousness, energy, and dimensional theory.
+---
 
-## Included
-- `Complete_Unified_Scientific_Theory_Dossier.docx` – Full theory file
-- `Unified_Simulation_Scientific_Dossier.docx` – Simulation-focused summary
-- `LICENSE.txt` – CC-BY 4.0 Open Access License
+## Purpose
 
-## Objectives
-- Provide reproducible models and test pathways
-- Unify established and suppressed scientific domains
-- Open a new frontier of ethical and experimental science
+This project introduces a fully integrated, simulation-confirmed scientific model. It unifies 17+ domains of science—from cosmology and quantum theory to medicine, time, AI, and resonance biology—into a provable, interdisciplinary framework.
 
-## Recommended Citations
-Pregun, J. (2025). *Complete Unified Scientific Theory Dossier*. Open Science Framework + GitHub Mirror.
+The goal: to **elevate humanity through understanding**, using real-world data, historical insights, and field simulations to create an accurate, unified picture of how reality truly works.
+
+---
+
+## Contents
+
+- **Complete_Unified_Scientific_Theory_Dossier.docx**  
+   Full theory documentation including all verified breakthroughs
+
+- **Unified_Simulation_Scientific_Dossier.docx**  
+   Condensed simulation and testing version for reproducibility
+
+- **LICENSE.txt**  
+   Released under Creative Commons Attribution 4.0
+
+---
+
+## Open Science Link
+
+View project on OSF:  
+[https://osf.io/](https://osf.io/) *(insert your OSF project URL here)*
+
+---
+
+## Citation (APA)
+
+Pregun, J. (2025). *Complete Scientific Theory Dossier*. Open Science Framework & GitHub.  
+https://github.com/DeadlyWater/Complete-Scientific-Theory-Dossier *(use your repo URL)*
+
+---
+
+## Contact
+
+For collaboration, peer review, or media inquiries, contact:  
+**[insert your contact or preferred channel]**
