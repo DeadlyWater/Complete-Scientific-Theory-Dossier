@@ -34,11 +34,9 @@ View project on OSF:
 [https://osf.io/](https://osf.io/) *(insert your OSF project URL here)*
 
 ---
-
 ## Citation (APA)
 
-Pregun, J. (2025). *Complete Scientific Theory Dossier*. Open Science Framework & GitHub.  
-https://github.com/DeadlyWater/Complete-Scientific-Theory-Dossier *(use your repo URL)*
+Pregun, J. (2025). *Complete Unified Scientific Theory Dossier – Public Simulation Framework*. Zenodo. https://doi.org/10.5281/zenodo.15420586
 
 ---
 
